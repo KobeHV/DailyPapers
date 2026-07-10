@@ -148,5 +148,65 @@
     "id": "2607.07316",
     "date": "2026-07-09",
     "title": "Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning"
+  },
+  {
+    "id": "2607.08643",
+    "date": "2026-07-10",
+    "title": "BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression"
+  },
+  {
+    "id": "2607.08393",
+    "date": "2026-07-10",
+    "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning"
+  },
+  {
+    "id": "2607.08161",
+    "date": "2026-07-10",
+    "title": "SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation"
+  },
+  {
+    "id": "2607.08080",
+    "date": "2026-07-10",
+    "title": "MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction"
+  },
+  {
+    "id": "2607.07989",
+    "date": "2026-07-10",
+    "title": "Who Broke the System? Failure Localization in LLM-Based Multi-Agent Systems"
+  },
+  {
+    "id": "2607.08282",
+    "date": "2026-07-10",
+    "title": "Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models"
+  },
+  {
+    "id": "2607.08018",
+    "date": "2026-07-10",
+    "title": "Concretized Proposition Prompting Resolves Composition-Knowledge Dichotomy in Large Language Models"
+  },
+  {
+    "id": "2607.07976",
+    "date": "2026-07-10",
+    "title": "When Implausible Tokens Get Reinforced: Tail-Aware Credit Calibration for LLM Reinforcement Learning"
+  },
+  {
+    "id": "2607.07918",
+    "date": "2026-07-10",
+    "title": "Efficient Safety Alignment of Language Models via Latent Personality Traits"
+  },
+  {
+    "id": "2607.07779",
+    "date": "2026-07-10",
+    "title": "From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier"
+  },
+  {
+    "id": "2607.07748",
+    "date": "2026-07-10",
+    "title": "Selective Left-Shift: Turning Test-Time Compute and Difficulty-based Curation into Training Data for Low-Resource Code Generation"
+  },
+  {
+    "id": "2607.08093",
+    "date": "2026-07-10",
+    "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents"
   }
 ]
