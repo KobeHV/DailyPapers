@@ -1,0 +1,16 @@
+# Obsidian
+.obsidian/workspace*.json
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/snippets/
+.obsidian/hotkeys.json
+.obsidian/core-plugins*.json
+.obsidian/community-plugins.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+~$*
