@@ -2,7 +2,7 @@
 # Daily push script for Obsidian vault -> GitHub
 # Repository: https://github.com/KobeHV/DailyPapers.git
 
-REPO_DIR="D:/Obsidian"
+REPO_DIR="D:/DailyPapers"
 BRANCH="main"
 
 cd "$REPO_DIR" || { echo "ERROR: Cannot cd to $REPO_DIR"; exit 1; }
