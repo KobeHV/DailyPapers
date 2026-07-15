@@ -1,212 +1,152 @@
 [
   {
     "id": "2403.13372",
-    "date": "2026-07-09",
+    "date": "2026-07-15",
     "title": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models"
   },
   {
-    "id": "2607.07117",
-    "date": "2026-07-09",
-    "title": "Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning"
-  },
-  {
     "id": "2309.06180",
-    "date": "2026-07-09",
+    "date": "2026-07-15",
     "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention"
   },
   {
-    "id": "2605.03042",
-    "date": "2026-07-09",
-    "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration"
-  },
-  {
-    "id": "2607.07507",
-    "date": "2026-07-09",
-    "title": "HIVE: Understanding Post-Hallucination Reasoning in Vision Language Models"
-  },
-  {
-    "id": "2607.06452",
-    "date": "2026-07-09",
-    "title": "From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b"
+    "id": "2607.12771",
+    "date": "2026-07-15",
+    "title": "Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models"
   },
   {
     "id": "2601.02163",
-    "date": "2026-07-09",
+    "date": "2026-07-15",
     "title": "EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning"
   },
   {
-    "id": "2602.15763",
-    "date": "2026-07-09",
-    "title": "GLM-5: from Vibe Coding to Agentic Engineering"
-  },
-  {
-    "id": "2407.17789",
-    "date": "2026-07-09",
-    "title": "Very Large-Scale Multi-Agent Simulation in AgentScope"
-  },
-  {
-    "id": "2510.12323",
-    "date": "2026-07-09",
-    "title": "RAG-Anything: All-in-One RAG Framework"
-  },
-  {
-    "id": "2607.07388",
-    "date": "2026-07-09",
-    "title": "TF-Engram: A Train-Free Engram with SSD-Backed Memory for Large Language Models"
-  },
-  {
-    "id": "2607.06175",
-    "date": "2026-07-09",
-    "title": "Improving LLM-Generated Process Model Quality Through Reinforcement Learning: The Role of Reward Function Design"
-  },
-  {
-    "id": "2607.07508",
-    "date": "2026-07-09",
-    "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning"
-  },
-  {
-    "id": "2509.22186",
-    "date": "2026-07-09",
-    "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing"
-  },
-  {
-    "id": "2410.05779",
-    "date": "2026-07-09",
-    "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-  },
-  {
-    "id": "2508.04660",
-    "date": "2026-07-09",
-    "title": "Multi-module GRPO: Composing Policy Gradients and Prompt Optimization\n  for Language Model Programs"
-  },
-  {
-    "id": "2607.06940",
-    "date": "2026-07-09",
-    "title": "Comprehensive Evaluation of Large Language Model Responses: A Multi-Factor Scoring System"
-  },
-  {
-    "id": "2607.06720",
-    "date": "2026-07-09",
-    "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning"
-  },
-  {
-    "id": "2607.06489",
-    "date": "2026-07-09",
-    "title": "Multi-Agent Deep Reinforcement Learning for Multi Objective Battery Management in Dairy Farms"
-  },
-  {
-    "id": "2607.06160",
-    "date": "2026-07-09",
-    "title": "LongCrafter: Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis"
-  },
-  {
-    "id": "2607.05969",
-    "date": "2026-07-09",
-    "title": "MemDefrag: Latent Memory Defragmentation for Large Language Models"
-  },
-  {
-    "id": "2504.19413",
-    "date": "2026-07-09",
-    "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"
-  },
-  {
     "id": "2512.16676",
-    "date": "2026-07-09",
+    "date": "2026-07-15",
     "title": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI"
   },
   {
-    "id": "2607.02980",
-    "date": "2026-07-09",
-    "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling"
+    "id": "2602.15763",
+    "date": "2026-07-15",
+    "title": "GLM-5: from Vibe Coding to Agentic Engineering"
   },
   {
-    "id": "2606.30616",
-    "date": "2026-07-09",
-    "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent"
+    "id": "2607.12856",
+    "date": "2026-07-15",
+    "title": "Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control"
   },
   {
-    "id": "2607.07690",
-    "date": "2026-07-09",
-    "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning"
+    "id": "2509.22186",
+    "date": "2026-07-15",
+    "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing"
   },
   {
-    "id": "2607.07646",
-    "date": "2026-07-09",
-    "title": "RL Post-Training Builds Compositional Reasoning Strategies"
+    "id": "2607.12787",
+    "date": "2026-07-15",
+    "title": "Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters?"
   },
   {
-    "id": "2607.07626",
-    "date": "2026-07-09",
-    "title": "Future Confidence Distillation in Large Language Models"
+    "id": "2607.12739",
+    "date": "2026-07-15",
+    "title": "Epistemic Stance Flexibility Probing: Measuring Prompt-Conditioned Register Shift in Large Language Models"
   },
   {
-    "id": "2607.07492",
-    "date": "2026-07-09",
-    "title": "Search, Fail, Recover: A Training Framework for Correction-Aware Reasoning"
+    "id": "2607.11875",
+    "date": "2026-07-15",
+    "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks"
   },
   {
-    "id": "2607.07316",
-    "date": "2026-07-09",
-    "title": "Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning"
+    "id": "2607.11722",
+    "date": "2026-07-15",
+    "title": "STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling"
   },
   {
-    "id": "2607.08643",
-    "date": "2026-07-10",
-    "title": "BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression"
+    "id": "2607.11475",
+    "date": "2026-07-15",
+    "title": "HyperSafe: Inference-Time Safety Recovery for Fine-Tuned Language Models"
   },
   {
-    "id": "2607.08393",
-    "date": "2026-07-10",
-    "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning"
+    "id": "2607.11292",
+    "date": "2026-07-15",
+    "title": "The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students"
   },
   {
-    "id": "2607.08161",
-    "date": "2026-07-10",
-    "title": "SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation"
+    "id": "2607.11258",
+    "date": "2026-07-15",
+    "title": "TreeThink: A Modular Tree Search Library for Mathematical Reasoning with LLMs"
   },
   {
-    "id": "2607.08080",
-    "date": "2026-07-10",
-    "title": "MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction"
+    "id": "2504.19413",
+    "date": "2026-07-15",
+    "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"
   },
   {
-    "id": "2607.07989",
-    "date": "2026-07-10",
-    "title": "Who Broke the System? Failure Localization in LLM-Based Multi-Agent Systems"
+    "id": "2006.15704",
+    "date": "2026-07-15",
+    "title": "PyTorch Distributed: Experiences on Accelerating Data Parallel Training"
   },
   {
-    "id": "2607.08282",
-    "date": "2026-07-10",
-    "title": "Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models"
+    "id": "2508.04660",
+    "date": "2026-07-15",
+    "title": "Multi-module GRPO: Composing Policy Gradients and Prompt Optimization\n  for Language Model Programs"
   },
   {
-    "id": "2607.08018",
-    "date": "2026-07-10",
-    "title": "Concretized Proposition Prompting Resolves Composition-Knowledge Dichotomy in Large Language Models"
+    "id": "2607.12815",
+    "date": "2026-07-15",
+    "title": "Visual Access Boundaries in Vision-Language Model Reasoning"
   },
   {
-    "id": "2607.07976",
-    "date": "2026-07-10",
-    "title": "When Implausible Tokens Get Reinforced: Tail-Aware Credit Calibration for LLM Reinforcement Learning"
+    "id": "2607.12696",
+    "date": "2026-07-15",
+    "title": "Less Experts, Faster Decoding: Cost-Aware Speculative Decoding for Mixture-of-Experts"
   },
   {
-    "id": "2607.07918",
-    "date": "2026-07-10",
-    "title": "Efficient Safety Alignment of Language Models via Latent Personality Traits"
+    "id": "2607.12640",
+    "date": "2026-07-15",
+    "title": "A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism"
   },
   {
-    "id": "2607.07779",
-    "date": "2026-07-10",
-    "title": "From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier"
+    "id": "2607.12195",
+    "date": "2026-07-15",
+    "title": "Comparing Semantic Navigation in Humans and Large Language Models using Natural Language Processing"
   },
   {
-    "id": "2607.07748",
-    "date": "2026-07-10",
-    "title": "Selective Left-Shift: Turning Test-Time Compute and Difficulty-based Curation into Training Data for Low-Resource Code Generation"
+    "id": "2607.11207",
+    "date": "2026-07-15",
+    "title": "ProgramTab: Boosting Table Reasoning of LLMs via Programmatic Paradigm"
   },
   {
-    "id": "2607.08093",
-    "date": "2026-07-10",
-    "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents"
+    "id": "2606.23050",
+    "date": "2026-07-15",
+    "title": "Unlimited OCR Works"
+  },
+  {
+    "id": "2410.17799",
+    "date": "2026-07-15",
+    "title": "OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation"
+  },
+  {
+    "id": "2503.11576",
+    "date": "2026-07-15",
+    "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion"
+  },
+  {
+    "id": "2607.12884",
+    "date": "2026-07-15",
+    "title": "Evaluating Large Language Models on Misconceptions in Multi-Turn Medical Conversations"
+  },
+  {
+    "id": "2607.12829",
+    "date": "2026-07-15",
+    "title": "Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques"
+  },
+  {
+    "id": "2607.12733",
+    "date": "2026-07-15",
+    "title": "LLMs Can See the Smoke but not the Fire: Evaluating Abductive Reasoning with Elenchos"
+  },
+  {
+    "id": "2607.12634",
+    "date": "2026-07-15",
+    "title": "Atomic Units of X: The Compression Layer of Intelligence"
   }
 ]
